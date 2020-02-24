@@ -6,7 +6,6 @@ folder dist
 
 @http
 get /api
-get /list/:id
 
 @tables
 data
